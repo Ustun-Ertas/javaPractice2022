@@ -19,7 +19,7 @@ public class Q02 {
         int sayi = scan.nextInt();
         ilkSonHarf(str, sayi);
         System.out.println("girilen stringin ilk ve son harfinin istenen sayi kadar birlesik hali :" +ilkSonHarf(str,sayi));
-
+##########
 
     } //main Sonu
     private static String ilkSonHarf(String str, int sayi) {
