@@ -1,4 +1,4 @@
-package InterviewQuestions1;
+package qustions1;
 
 public class Q05_InterviewQuestion {
      /*

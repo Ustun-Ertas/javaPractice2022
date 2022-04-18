@@ -1,7 +1,6 @@
-package interviewQuestions4;
+package questions4;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Q02 {
 

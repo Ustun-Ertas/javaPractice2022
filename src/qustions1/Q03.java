@@ -1,12 +1,12 @@
-package InterviewQuestions1;
+package qustions1;
 
 import java.util.Scanner;
 
 public class Q03 {
-    /*
-Ask user enter a positive number and check if it is prime or not
-Kullanıcıdan pozitif bir sayı girmesini isteyin ve asal olup olmadığını kontrol edin
- */
+                /*
+             Ask user enter a positive number and check if it is prime or not
+             Kullanıcıdan pozitif bir sayı girmesini isteyin ve asal olup olmadığını kontrol edin
+                */
 
     public static void main(String[] args) {
         Scanner scanner =new Scanner(System.in);
