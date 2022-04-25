@@ -2,7 +2,7 @@ package qustions1;
 
 import java.util.Scanner;
 
-public class Q06_InterviewQuestion {
+public class Q06 {
 
     //write a Java Program to swap two numbers
     //12

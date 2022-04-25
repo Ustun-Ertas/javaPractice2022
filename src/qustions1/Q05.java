@@ -1,6 +1,6 @@
 package qustions1;
 
-public class Q05_InterviewQuestion {
+public class Q05 {
      /*
         Type a program to print the integers from 1 to 100 without using any integer
          */
