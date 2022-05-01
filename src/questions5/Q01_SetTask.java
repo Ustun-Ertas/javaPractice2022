@@ -1,7 +1,6 @@
-package question5;
+package questions5;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 

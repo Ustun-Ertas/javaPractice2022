@@ -1,4 +1,4 @@
-package qustions1;
+package questions1;
 
 import java.util.Arrays;
 import java.util.Scanner;

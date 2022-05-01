@@ -1,4 +1,4 @@
-package qustions1;
+package questions1;
 
 public class Q05 {
      /*
