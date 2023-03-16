@@ -25,15 +25,12 @@ public class Q06_ForLoop01 {
             if (i % 13==0){
                 System.out.println(i +" ");
                 toplam+=i;
-
             }
         }
 
         System.out.println();
         System.out.println("toplam = " +toplam);
 
-
     }
-
 
 }
